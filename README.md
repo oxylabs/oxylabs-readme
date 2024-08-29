@@ -1,6 +1,6 @@
-# Welcome to Oxylabs on GitHub!
+# Welcome to Oxylabs on GitHub
 
-We're pioneers in premium proxy services and advanced web scraping solutions, trusted by developers and businesses worldwide. Our GitHub organization hosts a diverse range of tools, SDKs, and tutorials, all crafted to to address your challenges and support your technical goals. Explore our repositories' collections:
+We provide premium proxy services and web scraping solutions, trusted by developers worldwide. Our GitHub organisation offers tools, SDKs, and tutorials. Explore our repositories' collections:
 
 ## 🔧 Open-Source projects
 
@@ -26,22 +26,6 @@ SDKs and code samples to help you integrate Oxylabs' solutions into your project
 - **[proxy-integration-with-parsehub](https://github.com/oxylabs/proxy-integration-with-parsehub):** Proxies' integration with ParseHub.
 - **[integration-python-requests](https://github.com/oxylabs/integration-python-requests):** Residential and Datacenter Proxies' integration with Python Requests.
 - **[integration-with-node-fetch](https://github.com/oxylabs/proxies-with-node-fetch):** Node-Fetch integration with proxies.
-
-## 🛠️ Google scraping solutions
-
-Solutions and tools for scraping Google pages.
-
-- **[google-scraper](https://github.com/oxylabs/scrape-google-python):** Scrape Google data with Python.
-- **[google-images-scraper](https://github.com/oxylabs/how-to-scrape-google-images):** Scrape Google images in real time.
-- **[google-shopping-scraper](https://github.com/oxylabs/scrape-google-shopping):** Get real-time data from Google Shopping.
-- **[google-maps-scraper](https://github.com/oxylabs/google-maps-scraper):** Scrape Google Maps for data from various Google Maps listings.
-- **[google-trends-scraper](https://github.com/oxylabs/how-to-scrape-google-trends):** Scrape Google Trends data and make a result comparison using Python.
-- **[google-flights-scraper](https://github.com/oxylabs/how-to-scrape-google-flights):** Scrape flight data from Google Flights and analyze flight prices with Python.
-- **[google-news-scraper](https://github.com/oxylabs/google-news-scraper):** Use Google News API to get the latest global news.
-- **[google-maps-scraper](https://github.com/oxylabs/google-maps-scraper):** Scrape Google Maps for data from various Google Maps listings.
-- **[google-play-scraper](https://github.com/oxylabs/google-play-scraper):** Scrape Google Play and collect public details about applications, and more.
-- **[google-scholar-scraper](https://github.com/oxylabs/how-to-scrape-google-scholar):** Extract titles, authors, and citations from Google Scholar using Python.
-- **[google-jobs-scraper](https://github.com/oxylabs/how-to-scrape-google-jobs):** Build your own Google Jobs scraper with Python.
 
 ## 📚 Tutorials and guides
 
@@ -83,6 +67,22 @@ Tutorials and guides to help you get started with web scraping (organized by lan
 ### PowerShell
 
 - **[web-scraping-powershell](https://github.com/oxylabs/web-scraping-powershell):** Tutorial on using PowerShell and PowerHTML for web scraping.
+
+## 🛠️ Google scraping solutions
+
+Solutions and tools for scraping Google pages.
+
+- **[google-scraper](https://github.com/oxylabs/scrape-google-python):** Scrape Google data with Python.
+- **[google-images-scraper](https://github.com/oxylabs/how-to-scrape-google-images):** Scrape Google images in real time.
+- **[google-shopping-scraper](https://github.com/oxylabs/scrape-google-shopping):** Get real-time data from Google Shopping.
+- **[google-maps-scraper](https://github.com/oxylabs/google-maps-scraper):** Scrape Google Maps for data from various Google Maps listings.
+- **[google-trends-scraper](https://github.com/oxylabs/how-to-scrape-google-trends):** Scrape Google Trends data and make a result comparison using Python.
+- **[google-flights-scraper](https://github.com/oxylabs/how-to-scrape-google-flights):** Scrape flight data from Google Flights and analyze flight prices with Python.
+- **[google-news-scraper](https://github.com/oxylabs/google-news-scraper):** Use Google News API to get the latest global news.
+- **[google-maps-scraper](https://github.com/oxylabs/google-maps-scraper):** Scrape Google Maps for data from various Google Maps listings.
+- **[google-play-scraper](https://github.com/oxylabs/google-play-scraper):** Scrape Google Play and collect public details about applications, and more.
+- **[google-scholar-scraper](https://github.com/oxylabs/how-to-scrape-google-scholar):** Extract titles, authors, and citations from Google Scholar using Python.
+- **[google-jobs-scraper](https://github.com/oxylabs/how-to-scrape-google-jobs):** Build your own Google Jobs scraper with Python.
 
 ## 🗂 Scraper APIs
 
