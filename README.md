@@ -7,6 +7,7 @@ We provide premium proxy services and web scraping solutions, trusted by develop
 Open-source frameworks designed to facilitate your web scraping projecs.
 
 - **[OxyParser](https://github.com/oxylabs/OxyParser):** Oxy®Parser simplifies HTML parsing by leveraging LLMs and Pydantic models. Define your HTML structure with Pydantic, and let OxyParser automatically transform HTML into structured data models.
+- **[Web Scraper API Scheduler](https://github.com/oxylabs/Oxylabs-Web-Scraper-API-Scheduler/):** Quickly start and test Scraper API payloads with basic programming knowledge. 
   
 
 ## 📦 SDKs and integrations
