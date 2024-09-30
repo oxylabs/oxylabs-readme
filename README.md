@@ -14,8 +14,8 @@ Open-source frameworks designed to facilitate your web scraping projecs.
 
 SDKs and code samples to help you integrate Oxylabs' solutions into your projects.
 
-- **[oxylabs-sdk-go](https://github.com/oxylabs/oxylabs-sdk-go):** Go SDK for Oxylabs' Scraper APIs.
-- **[oxylabs-sdk-python](https://github.com/oxylabs/oxylabs-sdk-python):** Python SDK for working with Oxylabs' APIs.
+- **[oxylabs-sdk-go](https://github.com/oxylabs/oxylabs-sdk-go):** Go SDK for Oxylabs' Scraper API.
+- **[oxylabs-sdk-python](https://github.com/oxylabs/oxylabs-sdk-python):** Python SDK for working with Oxylabs' API.
 - **[product-integrations](https://github.com/oxylabs/product-integrations):** Oxylabs product integration tutorials.
 - **[proxy-integrations](https://github.com/oxylabs/proxy-integrations):** Proxy integration tutorials.
 - **[selenium-proxy-integration-python](https://github.com/oxylabs/selenium-proxy-integration-python):** Residential Proxies' integration with Selenium in Python.
@@ -35,7 +35,7 @@ Tutorials and guides to help you get started with web scraping (organized by lan
 ### Python
 
 - **[web-scraping-selenium-python](https://github.com/oxylabs/web-scraping-selenium-python):** Web Scraping with Python Selenium for beginners.
-- **[seo-monitoring](https://github.com/oxylabs/seo-monitoring):** SEO Monitoring System with Python, Celery, and a SERP Scraper API.
+- **[seo-monitoring](https://github.com/oxylabs/seo-monitoring):** SEO Monitoring System with Python, Celery, and a SERP Scraper API (now a part of Web Scraper API).
 - **[scrapy-web-scraping](https://github.com/oxylabs/scrapy-web-scraping):** Tutorial for web scraping with Scrapy.
 - **[python-cache-tutorial](https://github.com/oxylabs/python-cache-tutorial):** Tutorial to caching web scraping scripts in Python.
 - **[playwright-web-scraping](https://github.com/oxylabs/playwright-web-scraping):** Web scraping using Playwright headless browser.
@@ -85,13 +85,11 @@ Solutions and tools for scraping Google pages.
 - **[google-scholar-scraper](https://github.com/oxylabs/how-to-scrape-google-scholar):** Extract titles, authors, and citations from Google Scholar using Python.
 - **[google-jobs-scraper](https://github.com/oxylabs/how-to-scrape-google-jobs):** Build your own Google Jobs scraper with Python.
 
-## 🗂 Scraper APIs
-
-### E-commerce scraper APIs
+## 🛍️ E-commerce scraping tutorials
 
 Specialized scrapers for popular e-commerce platforms.
 
-- **[ecommerce-scraper-api-guide](https://github.com/oxylabs/ecommerce-scraper-api-guide):** A tutorial on using Oxylabs' E-Commerce Scraper.
+- **[quick-start-guide](https://github.com/oxylabs/quick-start-guide/blob/main/Guides/E-Commerce%20Websites.md):** A tutorial on using Oxylabs' Web Scraper API for E-Commerce targets.
 - **[amazon-asin-scraper](https://github.com/oxylabs/amazon-asin-scraper):** Extract product ASINs from Amazon.
 - **[bypass-amazon-captcha](https://github.com/oxylabs/how-to-bypass-amazon-captcha):** Bypass CAPTCHA when extracting public data from Amazon.
 - **[amazon-review-scraper](https://github.com/oxylabs/amazon-review-scraper):** Extract Amazonreview data.
@@ -118,7 +116,7 @@ Specialized scrapers for popular e-commerce platforms.
 - **[digikey-scraper](https://github.com/oxylabs/digikey-scraper):** Extract electronic component data from the Digikey.
 - **[bunnings-scraper](https://github.com/oxylabs/bunnings-scraper):** Extract data from Bunnings' website.
 
-### Web scraper APIs
+## 🌐 Other websites
 
 Specialized scrapers for various websites. 
 
