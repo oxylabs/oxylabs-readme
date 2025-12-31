@@ -80,7 +80,6 @@ Solutions and tools for scraping Google pages.
 
 - **[google-scraper](https://github.com/oxylabs/scrape-google-python):** Scrape Google data with Python.
 - **[google-images-scraper](https://github.com/oxylabs/how-to-scrape-google-images):** Scrape Google images in real time.
-- **[google-shopping-scraper](https://github.com/oxylabs/scrape-google-shopping):** Get real-time data from Google Shopping.
 - **[google-trends-scraper](https://github.com/oxylabs/how-to-scrape-google-trends):** Scrape Google Trends data and make a result comparison using Python.
 - **[google-flights-scraper](https://github.com/oxylabs/how-to-scrape-google-flights):** Scrape flight data from Google Flights and analyze flight prices with Python.
 - **[google-news-scraper](https://github.com/oxylabs/google-news-scraper):** Use Google News API to get the latest global news.
@@ -113,7 +112,6 @@ Specialized scrapers for popular e-commerce platforms.
 - **[1688-scraper](https://github.com/oxylabs/1688-scraper):** Extract data from the 1688 e-commerce platform.
 - **[xbox-scraper](https://github.com/oxylabs/xbox-scraper):** Extract game data from Xbox.
 - **[biglots-scraper](https://github.com/oxylabs/biglots-scraper):** Get data from Biglots's retailers' websites.
-- **[depop-scraper](https://github.com/oxylabs/depop-scraper):** Extract Depop's online shopping data.
 - **[gamestop-scraper](https://github.com/oxylabs/gamestop-scraper):** Extract data from Gamestop's site.
 - **[worten-scraper](https://github.com/oxylabs/worten-scraper):** Extract product data from Worten.
 - **[digikey-scraper](https://github.com/oxylabs/digikey-scraper):** Extract electronic component data from the Digikey.
