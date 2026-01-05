@@ -123,7 +123,6 @@ Specialized scrapers for various websites.
 
 - **[indeed-scraper](https://github.com/oxylabs/how-to-scrape-indeed):** Extract job postings from Indeed.
 - **[redfin-scraper](https://github.com/oxylabs/scraping-real-estate-data-with-python):** Extract real estate data from Redfin.
-- **[youtube-scraper](https://github.com/oxylabs/youtube-scraper):** Extract public YouTube data.
 - **[expedia-scraper](https://github.com/oxylabs/expedia-scraper):** Extract data from the Expedia website.
 - **[trip-scraper](https://github.com/oxylabs/trip-scraper):** Extract travel data from various sources globally.
 - **[trivago-scraper](https://github.com/oxylabs/trivago-scraper):** Get real-time data from Trivago.
