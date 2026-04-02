@@ -164,5 +164,4 @@ Additionally, feel free to join our [Discord server](https://discord.gg/GbxmdGhZ
 
 ## 💬 Get in Touch
 
-If you have any questions or need further assistance, feel free to [contact us](mailto:hello@oxylabs.io) or visit our [website](https://www.oxylabs.io) for more information.
-
+If you have questions or need support, reach out to us at support@oxylabs.io, or through live chat, accessible via [Oxylabs Dashboard](https://dashboard.oxylabs.io/en/), or join our [Discord community](https://discord.gg/Pds3gBmKMH). For enterprise-related inquiries, contact your dedicated account manager.
